@@ -31,7 +31,7 @@ const Slider = () => {
       <Arrow direction="left">
         <ArrowLeftOutlined/>
       </Arrow>
-      <Arrow>
+      <Arrow direction="right">
         <ArrowRightOutlined/>
       </Arrow>
     </Container>
